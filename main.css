@@ -3,7 +3,7 @@ a:link, a:visited{
  text-decoration: none;
 }
 a:hover{
-  color: white;
+  color: #40e0d0;
   transition:all 0.5s ease;
 }
 h1, h2{
