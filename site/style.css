@@ -49,6 +49,7 @@
 }
 .botao{
     background-color: #555555;
+    color: rgb(255, 246, 238);
     border-style: none;
     border-radius: 7px;
     padding: 15px 32px;
