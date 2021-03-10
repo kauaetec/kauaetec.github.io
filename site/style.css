@@ -1,0 +1,62 @@
+#menu ul{
+    padding: 0px;
+    margin: -8px;
+    background-color:#EDEDED;
+    list-style: none;
+}
+#menu ul li a {
+    padding: 5px 20px;
+    display: inline-block;
+    background-color:#EDEDED;
+    color: #333;
+    font-size: 25px;
+    text-decoration: none;
+    border-bottom: 3px solid #EDEDED;
+}
+#menu a:hover{
+    background-color: #D6D6D6; 
+    color: #6D6D6D;
+}
+#menu ul li{
+    display: inline;
+}
+.title{
+    color: #3d3d3d;
+}
+.hr-1{
+    width: 50%;
+}
+.info-1{
+    color: #3d3d3d;
+    text-align: center;
+    font-size: 20px;
+}
+.info-2{
+    background-color: #444242;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(255, 246, 238);
+}
+.info-3{
+    text-align: center;
+    font-size: 20px;
+}
+.image2{
+    float: left;
+}
+.preco{
+    font-size: 25px;
+}
+.botao{
+    background-color: #555555;
+    border-style: none;
+    border-radius: 7px;
+    padding: 15px 32px;
+}
+.but{
+    text-align: center;
+}
+.adicionais{
+    color: #3d3d3d;
+    font-size: 20px;
+}
