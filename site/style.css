@@ -22,6 +22,7 @@
 }
 .title{
     color: #3d3d3d;
+    font-size: 24px;
 }
 .hr-1{
     width: 50%;
@@ -29,12 +30,12 @@
 .info-1{
     color: #3d3d3d;
     text-align: center;
-    font-size: 20px;
+    font-size: 27px;
 }
 .info-2{
     background-color: #444242;
     text-align: center;
-    font-size: 20px;
+    font-size: 27px;
     color: rgb(255, 246, 238);
 }
 .info-3{
